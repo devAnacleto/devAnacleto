@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou João Victor Anacleto</h1>
+<h1 align="center">👋 Olá! Eu sou </h1>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:0969DA,100:39C5BB&text=João%20Victor%20Anacleto&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Desenvolvedor%20%7C%20Sistemas%20de%20Informação&descAlignY=60&descSize=18" alt="Banner de João Victor Anacleto" />
@@ -39,7 +39,7 @@ Minha trajetória profissional na área administrativa fortaleceu competências 
 
 ---
 
-## 🔭 Projetos em destaque — desenvolvidos em aula
+## 🔭 Projetos em destaque — Desenvolvidos em aula
 
 ### 🔎 Sistema de Achados e Perdidos — UNIFRAN
 
